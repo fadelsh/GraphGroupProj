@@ -1,1 +1,1 @@
-# A java group project for the algorthims class at Iowa State. 
+# A java group project for the algorithms class at Iowa State. 
